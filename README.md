@@ -16,11 +16,7 @@ A fun and interactive memory card matching game built using **HTML**, **CSS**, a
 
 ## 🖥️ Demo
 
-> [Live Demo Link (if deployed)]([https://your-live-site.com](https://memory-match-game-git-main-abhiraj-yadavs-projects.vercel.app/))
-
-## 📸 Screenshot
-
-![Memory Match Game Screenshot](screenshot.png)
+> [Live Demo Link (if deployed)](https://your-live-site.com](https://memory-match-game-git-main-abhiraj-yadavs-projects.vercel.app/)
 
 
 ## 🛠️ Technologies Used
